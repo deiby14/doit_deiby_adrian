@@ -1,0 +1,48 @@
+/* Regla 1  */
+* {
+    font-family: 'Montserrat', sans-serif; 
+
+}
+
+ /* Regla 2 */
+body {
+    margin: 0;
+    padding: 20%;
+    background-color: cadetblue;
+    color: white;
+}
+/* Regla 3  */
+
+h1 {
+    color: darkblue;
+    text-align: center;
+    text-decoration: underline;
+}
+/* Regla 4 */
+img {
+    width: 300px;
+}
+
+/* Regla 5 */
+strong {
+    color: black;
+    background-color: goldenrod;
+}
+
+/* Regla 6 7 y 8 */
+.meg, .cocodrile, .avispa {
+    padding: 5%;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+/* Regla 9 */
+h2 {
+    text-align: left;
+}
+
+/* Regla 10 */
+img {
+    margin-left: 35%;
+    margin-right: 35%;
+}
